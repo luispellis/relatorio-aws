@@ -8,7 +8,7 @@ ResponsÃ¡vel: Luis Felipe Minelli Pellis
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Luis Pellis. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - Amazon EC2 (Elastic Compute Cloud)
